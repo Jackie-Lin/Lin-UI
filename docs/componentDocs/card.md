@@ -1,7 +1,7 @@
 # 卡片组件
 
 ### 示例
-<m-card imgSrc="Lin-UI/Vue.png" summary="Vue" />
+<m-card imgSrc="/Lin-UI/Vue.png" summary="Vue" />
 
 ### 代码
 ```html
