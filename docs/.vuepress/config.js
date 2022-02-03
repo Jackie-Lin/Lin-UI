@@ -1,5 +1,5 @@
 module.exports = {
-    base:'Lin-UI',
+    base:'/Lin-UI/',
     themeConfig: {
       sidebar: [
         '/',
